@@ -1,0 +1,2 @@
+"dde88df9-b63b-4ef2-bc8f-d6566c40b723 userToken GET 200 / "HTTP/1.1"
+"529f79f0-c355-4b42-9ef5-e8a79b5fdb27 userToken GET 404 /api/magic "HTTP/1.1"
